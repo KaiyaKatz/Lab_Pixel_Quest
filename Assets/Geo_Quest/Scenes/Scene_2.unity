@@ -1898,7 +1898,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 5
-  blueLevel: Scene_2
+  blueLevel: Scene 3
 --- !u!114 &988457374
 MonoBehaviour:
   m_ObjectHideFlags: 0
